@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Molk Oficial](https://molkoficial.github.io/Molk)
+# 👋 ¡Hola! Soy [Molk](https://molkoficial.github.io/Molk)
 
 ✨ Desarrollador multi-lenguaje | Apasionado por la web, scripting y la creatividad digital
 
