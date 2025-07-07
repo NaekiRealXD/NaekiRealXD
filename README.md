@@ -8,7 +8,7 @@
 
 | Proyecto            | Descripción                         | Tecnologías        |
 |---------------------|-----------------------------------|--------------------|
-| [Molk Web](https://molkoficial.github.io/Molk) | Página personal con diseño moderno y responsive | HTML5, CSS, JavaScript |
+| [Molk Web](https://molkoficial.github.io/Molk) | Página personal con diseño moderno y responsivo | HTML5, CSS, JavaScript |
 
 
 ---
