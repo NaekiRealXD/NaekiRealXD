@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Molk](https://molkoficial.github.io/Molk)
+# 👋 ¡Hola! Soy [Naeki](https://naekixd.github.io/Molk)
 
 ✨ Desarrollador multi-lenguaje | Apasionado por la web, scripting y la creatividad digital
 
@@ -8,7 +8,7 @@
 
 | Proyecto            | Descripción                         | Tecnologías        |
 |---------------------|-----------------------------------|--------------------|
-| [Molk Web](https://molkoficial.github.io/Molk) | Página personal con diseño moderno y responsivo | HTML5, CSS, JavaScript |
+| [Mi Pagina Web](https://naekixd.github.io/Molk) | Página personal con diseño moderno y responsivo | HTML5, CSS, JavaScript |
 
 
 ---
