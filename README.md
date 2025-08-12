@@ -8,7 +8,7 @@
 
 | Proyecto            | Descripción                         | Tecnologías        |
 |---------------------|-----------------------------------|--------------------|
-| [Mi Pagina Web](https://naekixd.github.io/Molk) | Página personal con diseño moderno y responsivo | HTML5, CSS, JavaScript |
+| [Mi Pagina Web](https://naekirealxd.github.io/Naeki) | Página personal con diseño moderno y responsivo | HTML5, CSS, JavaScript |
 
 
 ---
