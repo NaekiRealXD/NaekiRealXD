@@ -26,7 +26,7 @@
 
 ## 📈 Estadísticas GitHub
 
-![Molk GitHub stats](https://github-readme-stats.vercel.app/api?username=molkoficial&show_icons=true&theme=radical)
+![Naeki GitHub stats](https://github-readme-stats.vercel.app/api?username=naekirealxd&show_icons=true&theme=radical)
 
 ---
 
